@@ -1,21 +1,11 @@
 name: axios
-description: A new Flutter package project.
-version: 0.0.1
-homepage: https://github.com/sayegh7/axios
+description: Simple, zero-configuration command-line http server
+version: 1.0.0
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
   http_server: ^0.9.8+3
   args: ^2.0.0
   ansicolor: ^1.1.1
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
-flutter:
