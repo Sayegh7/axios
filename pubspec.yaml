@@ -1,6 +1,7 @@
 name: axios
 description: Simple, zero-configuration command-line http server
 version: 1.0.0
+repository: https://github.com/Sayegh7/axios
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
