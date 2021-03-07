@@ -5,7 +5,7 @@
 ## Install
 
 ```
-pub global activate axios
+dart pub global activate axios
 ```
 
 ## Usage
